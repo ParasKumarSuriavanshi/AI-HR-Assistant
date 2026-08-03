@@ -1,0 +1,208 @@
+PYTHON DEVELOPER JOB DESCRIPTION (JD)
+
+Company Name: ABC Technologies Pvt. Ltd.
+
+Position: Python Developer
+
+Department: Software Development
+
+Employment Type: Full-Time
+
+Experience Level: Entry Level / Experienced
+
+Location: _____________
+
+Effective Date: January 1, 2026
+
+
+==================================================
+JOB OVERVIEW
+==================================================
+
+ABC Technologies Pvt. Ltd. is looking for a skilled Python Developer
+to join our software development team.
+
+The Python Developer will be responsible for designing, developing,
+testing, and maintaining high-quality software applications using
+Python programming language.
+
+The ideal candidate should have strong programming skills,
+problem-solving abilities, and knowledge of software development
+practices.
+
+
+==================================================
+JOB TITLE
+==================================================
+
+Python Developer
+
+
+==================================================
+KEY RESPONSIBILITIES
+==================================================
+
+The Python Developer will be responsible for:
+
+- Developing efficient and scalable Python applications.
+- Writing clean, reusable, and maintainable code.
+- Designing and implementing backend solutions.
+- Debugging and resolving software issues.
+- Creating and maintaining APIs.
+- Working with databases and data storage systems.
+- Performing unit testing and code reviews.
+- Collaborating with developers, designers, and project managers.
+- Improving application performance and reliability.
+- Maintaining technical documentation.
+
+
+==================================================
+REQUIRED SKILLS
+==================================================
+
+Technical Skills:
+
+- Strong knowledge of Python programming.
+- Understanding of Object-Oriented Programming (OOP).
+- Knowledge of Python frameworks such as Django or Flask.
+- Experience with REST API development.
+- Knowledge of SQL and database management.
+- Understanding of Git and version control systems.
+- Familiarity with debugging and testing tools.
+- Basic knowledge of web technologies (HTML, CSS, JavaScript).
+
+
+==================================================
+EDUCATIONAL QUALIFICATION
+==================================================
+
+Required Qualification:
+
+- Bachelor's degree in Computer Science, Information Technology,
+  Software Engineering, or related field.
+
+Preferred:
+
+- Certification in Python programming.
+- Knowledge of software development methodologies.
+
+
+==================================================
+EXPERIENCE REQUIREMENTS
+==================================================
+
+Freshers:
+
+- Good understanding of Python fundamentals.
+- Knowledge of programming concepts.
+- Academic projects in Python are preferred.
+
+
+Experienced Candidates:
+
+- Experience in Python application development.
+- Experience with backend development.
+- Knowledge of software development lifecycle.
+
+
+==================================================
+SOFT SKILLS
+==================================================
+
+Candidates should have:
+
+- Strong problem-solving skills.
+- Good communication skills.
+- Ability to work in a team.
+- Time management skills.
+- Attention to detail.
+- Willingness to learn new technologies.
+
+
+==================================================
+TOOLS AND TECHNOLOGIES
+==================================================
+
+Programming Language:
+- Python
+
+Frameworks:
+- Django
+- Flask
+- FastAPI
+
+Database:
+- MySQL
+- PostgreSQL
+- MongoDB
+
+Tools:
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+
+==================================================
+JOB RESPONSIBILITIES SUMMARY
+==================================================
+
+The Python Developer will design, develop, and maintain software
+solutions while ensuring high performance, security, and reliability
+of applications.
+
+
+==================================================
+SALARY AND BENEFITS
+==================================================
+
+Benefits:
+
+- Competitive salary package.
+- Health insurance.
+- Paid leaves.
+- Learning and development opportunities.
+- Performance-based incentives.
+- Career growth opportunities.
+
+
+==================================================
+SELECTION PROCESS
+==================================================
+
+Selection stages:
+
+1. Resume Screening
+2. Technical Assessment
+3. Python Programming Interview
+4. HR Interview
+5. Final Selection
+
+
+==================================================
+EMPLOYEE ACKNOWLEDGEMENT
+==================================================
+
+I acknowledge that I have read and understood the Python Developer
+Job Description.
+
+Candidate Name: ______________________
+
+Candidate ID: ________________________
+
+Signature: ___________________________
+
+Date: ________________________________
+
+
+==================================================
+CONTACT INFORMATION
+==================================================
+
+ABC Technologies Pvt. Ltd.
+
+Human Resources Department
+
+Email: hr@abctech.com
+
+Phone: +91-XXXXXXXXXX
